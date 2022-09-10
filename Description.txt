@@ -1,0 +1,9 @@
+C code for the Khepera IV robot:
+- odometry
+- navigation based on the paper: 
+Bicho, E., Mallet, P., Shöner, G. (1998). Using attractor dynamics to control autonomous vehicle motion. Proceedings of the 24th Annual Conference of the IEEE, pp. 1176-1181 vol.2.
+- video streaming over server
+
+C++ code for:
+- creating DNFs architectures, including a GUI (unfinished)
+- communicating with the Khepera robot
